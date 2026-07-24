@@ -1,17 +1,16 @@
-# News entries — shown on the homepage news.log tab
-# Supports optional images for a lightbox gallery
-#
-# - date: Month YYYY
-#   headline: "Description of what happened"
-#   images:
-#     - news/photo1.jpg
-#     - news/photo2.jpg
-
-- date: January 2025
-  headline: "🚀 Launched my new terminal-themed website using <a href='https://github.com/IdrissRio/term-folio'>term-folio</a>!"
-
-- date: September 2024
-  headline: "📄 Published a paper at <a href='#'>Conference Name 2024</a>."
-
-- date: June 2024
-  headline: "🎓 Graduated with a PhD in Computer Science!"
+- date: "2026-07"
+  headline: "Preparing for Isovalent/Cilium role — deep eBPF & Tetragon interview prep"
+- date: "2026-07"
+  headline: "GO Telecom sovereign AI cloud RFP — 60-day Isovalent LoE scoped (Riyadh, KSA)"
+- date: "2026-07"
+  headline: "MEO Covilha DC migration complete — 28 switches, 6 maintenance windows, zero impact"
+- date: "2026-06"
+  headline: "AICDN prototype validated — 69× latency improvement, 60.6% cache hit rate, 0% false positives"
+- date: "2026-05"
+  headline: "8-episode AI Infrastructure Bootcamp podcast published on SharePoint"
+- date: "2026-03"
+  headline: "Cisco Crisis Response Award — Storm Kristin disaster relief coordination"
+- date: "2026-03"
+  headline: "15 years at Cisco milestone"
+- date: "2026-03"
+  headline: "Star Wars Tetragon Demo published — 21 TracingPolicies, 5 threat scenarios"
