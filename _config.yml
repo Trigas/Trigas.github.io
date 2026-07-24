@@ -1,0 +1,65 @@
+title: Pedro Trigueira
+email: Pedro_Trigueira@hotmail.com
+description: >-
+  Pedro Trigueira — Senior Delivery Architect at Cisco CX EMEA.
+  Cloud-native security, AI infrastructure, eBPF, Cilium, Tetragon.
+baseurl: ""
+url: "https://trigas.github.io"
+
+username: pedro
+
+github_url: https://github.com/Trigas
+linkedin_url: https://www.linkedin.com/in/pedrotrigueira
+
+author:
+  name: Pedro Trigueira
+  url: https://trigas.github.io
+
+social:
+  name: Pedro Trigueira
+  links:
+    - https://github.com/Trigas
+    - https://www.linkedin.com/in/pedrotrigueira
+
+affiliation: >
+    Pedro Trigueira<br/>
+    Senior Delivery Architect — Cisco CX EMEA<br/>
+    <a href="https://github.com/Trigas" target="_blank">github.com/Trigas</a>
+
+nav_pages:
+  - name: curriculum
+  - name: projects
+
+include:
+  - .htaccess
+  - _pages
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - tags
+  - Rakefile
+  - README.md
+  - LICENSE
+  - citesty.csl

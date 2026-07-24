@@ -1,0 +1,43 @@
+- name: Pedro Trigueira
+  photo: avatar.png
+  info: Senior Delivery Architect — Cisco CX EMEA
+  email: Pedro_Trigueira@hotmail.com
+  github: https://github.com/Trigas
+  linkedin: https://linkedin.com/in/pedrotrigueira
+  number_educ: 6
+
+  education1: "(2025 - Present) Senior Delivery Architect, <a href='https://www.cisco.com'>Cisco CX EMEA</a>"
+  education1_start: 2025-01-01
+  education1_detail: "Isovalent/Cilium/eBPF cloud-native security, AI infrastructure, datacenter migrations."
+
+  education2: "(2021 - 2025) Services Delivery Manager, <a href='https://www.cisco.com'>Cisco — Altice Portugal</a>"
+  education2_start: 2021-01-01
+  education2_end: 2025-01-01
+  education2_detail: "Service delivery governance and program-level planning for Tier-1 SP."
+
+  education3: "(2018 - 2025) Solutions Architect — Presales, <a href='https://www.cisco.com'>Cisco — Altice group</a>"
+  education3_start: 2018-01-01
+  education3_end: 2025-01-01
+  education3_detail: "5G NSA, vEPC lifecycle, CUPS-based solutions."
+
+  education4: "(2016 - 2018) Solutions Architect, <a href='https://www.cisco.com'>Cisco EMEA</a>"
+  education4_start: 2016-01-01
+  education4_end: 2018-01-01
+  education4_detail: "LTE, CUPS, 5G NSA/SA packet core, PMB private LTE."
+
+  education5: "(2011 - 2016) Network Consulting Engineer, <a href='https://www.cisco.com'>Cisco EMEA Mobility CoE</a>"
+  education5_start: 2011-01-01
+  education5_end: 2016-01-01
+  education5_detail: "Senior NCE for Mobile Packet Core — ASR5000, EPC deployments."
+
+  education6: "(2000 - 2010) Systems Engineer, HP / Nokia / Starent / Ericsson"
+  education6_start: 2000-01-01
+  education6_end: 2010-01-01
+  education6_detail: "Mobile core network engineering across four organizations."
+
+  education1short: "(2025-) Sr. Architect, <a href='https://www.cisco.com'>Cisco</a>"
+  education2short: "(2021-25) SDM, <a href='https://www.cisco.com'>Cisco-Altice</a>"
+  education3short: "(2018-25) SA Presales, <a href='https://www.cisco.com'>Cisco-Altice</a>"
+  education4short: "(2016-18) SA, <a href='https://www.cisco.com'>Cisco EMEA</a>"
+  education5short: "(2011-16) NCE, <a href='https://www.cisco.com'>Cisco</a>"
+  education6short: "(2000-10) Sys Eng, HP/Nokia/Starent"
